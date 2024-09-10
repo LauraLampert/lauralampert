@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Laura
 
-- 🌱 Atualmente estou estudando Analise e Desenvolvimento de sistemas e Java
+- 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistema e estudando Java
 
 <div>
   <a href="https://github.com/LauraLampert">
