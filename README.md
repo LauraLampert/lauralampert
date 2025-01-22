@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Laura Lampert
 
-- 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistemas no IFSul Sapucaia
+- 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistemas no IFSul Sapucaia do sul
 
 <div>
   <a href="https://github.com/LauraLampert">
