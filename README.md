@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Laura Lampert
 
-- 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistema e estudando Java
+- 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistemas no IFSul Sapucaia
 
 <div>
   <a href="https://github.com/LauraLampert">
