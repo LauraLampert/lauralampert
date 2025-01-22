@@ -1,4 +1,4 @@
-## Olá! Eu sou a Laura
+## Olá! Eu sou a Laura Lampert
 
 - 🌱 Atualmente estou cursando Analise e Desenvolvimento de sistema e estudando Java
 
