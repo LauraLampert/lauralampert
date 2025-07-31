@@ -6,15 +6,27 @@
   <a href="https://github.com/LauraLampert">
 </div>
 
+<h3>Front-End:</h3>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
- <img align="right" alt="Laura" src="https://cdn.discordapp.com/attachments/1300506842933231748/1339993903822143488/MiniEu-ezgif.com-video-to-gif-converter.gif"/>
+  
 </div>
 
 ##
+
+<h3>Back-End:</h3>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="" />
+</div>
+
+##
+
+<h3>Contatos:</h3>
 
 <div>
   <a href="https://www.linkedin.com/in/laura-lampert-74aa9325a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
