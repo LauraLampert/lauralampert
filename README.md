@@ -22,13 +22,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-</div>
-
-##
-
-<h3>Fim de uso:</h3>
-
-<div>
   <img align="center" alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
